@@ -15,7 +15,7 @@
 -------------------------------------------
 
 ### Most Used Language:
-<div align="left" width="200px">
+<div align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambo18&hide_title=false&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
 
