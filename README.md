@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ambo18v&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ambo18&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 [![@ambo18](https://raw.githubusercontent.com/ambo18/ambo18/main/assets/rjhel2.gif)](https://web.facebook.com/rjheltandugon18)
 ------------------------------------------- 
