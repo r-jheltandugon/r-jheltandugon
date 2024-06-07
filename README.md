@@ -17,7 +17,7 @@
 
 -------------------------------------------
 
-### My tools for Data Manipulation:
+### Database I Use:
 
 | MySQL | Postgres | SQLite |
 |----------|----------|----------|
@@ -25,10 +25,16 @@
 
 ------------------------------------------- 
 
-### Most Used Language:
+### Most Use Language:
 <div align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambo18&hide_title=false&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
+
+------------------------------------------- 
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 ------------------------------------------- 
 
