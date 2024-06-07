@@ -32,12 +32,14 @@
 
 ------------------------------------------- 
   
+### My Contributions & Streaks: 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=ambo18&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 -------------------------------------------
 
+### My github Status:
 <p align="center">
   <img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=ambo18&show_icons=true&theme=vision-friendly-dark">
 </p>
@@ -46,3 +48,7 @@
 
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{ambo18}/count.svg)
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
