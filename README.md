@@ -27,7 +27,7 @@
 
 ### Most Use Language:
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambo18&hide_title=false&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambo18&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </div>
 
 ------------------------------------------- 
@@ -39,8 +39,7 @@
 -------------------------------------------
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ambo18&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambo18&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=ambo18&show_icons=true&theme=vision-friendly-dark">
 </p>
 
 ------------------------------------------- 
