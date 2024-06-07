@@ -1,10 +1,9 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ambo18v&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
+
 [![@ambo18](https://raw.githubusercontent.com/ambo18/ambo18/main/assets/rjhel2.gif)](https://web.facebook.com/rjheltandugon18)
 ------------------------------------------- 
 ### Socials: 
 <a href="https://www.linkedin.com/in/r-jhel-tandugon-66052928a/"><img src="https://img.shields.io/badge/Rjhel_Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://web.facebook.com/rjheltandugon18"><img src="https://img.shields.io/badge/Rjhel_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://www.instagram.com/_shutodorki/"><img src="https://img.shields.io/badge/Rjhel_Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
--------------------------------------------
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ambo18v&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 -------------------------------------------
 ### How to reach me: 
