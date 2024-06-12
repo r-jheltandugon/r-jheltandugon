@@ -26,9 +26,7 @@
 ------------------------------------------- 
 
 ### Most Use Language:
-<div align="left">
-   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambo18&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</div>
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambo18&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 
 ------------------------------------------- 
   
@@ -40,9 +38,7 @@
 -------------------------------------------
 
 ### My github Status:
-<p align="center">
-  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=ambo18&show_icons=true&theme=vision-friendly-dark">
-</p>
+<img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=ambo18&show_icons=true&theme=vision-friendly-dark">
 
 ------------------------------------------- 
 
