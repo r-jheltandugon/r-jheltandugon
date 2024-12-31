@@ -8,7 +8,7 @@
 -------------------------------------------
 ### How to reach me: 
 <a href="mailto: rjheltandugon10182001@gmail.com">
-<img src="https://img.shields.io/badge/-rjheltandugon101820001%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
+<img src="https://img.shields.io/badge/-rjheltandugon10182001%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
 
 -------------------------------------------
 
