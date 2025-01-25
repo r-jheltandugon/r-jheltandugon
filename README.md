@@ -1,6 +1,6 @@
- [![@ambo18](https://raw.githubusercontent.com/ambo18/ambo18/main/assets/rjhel2.gif)](https://web.facebook.com/rjheltandugon18)
+ [![@r-jheltandugon](https://raw.githubusercontent.com/r-jheltandugon/ambo18/main/assets/rjhel2.gif)](https://web.facebook.com/rjheltandugon18)
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=ambo18&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=r-jheltandugon&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ------------------------------------------- 
 ### Socials: 
 <a href="https://www.linkedin.com/in/r-jhel-tandugon-66052928a/"><img src="https://img.shields.io/badge/Rjhel_Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://web.facebook.com/rjheltandugon18"><img src="https://img.shields.io/badge/Rjhel_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://www.instagram.com/rjheltandugon?igsh=YXVydnM0ZDc3bXVx"><img src="https://img.shields.io/badge/Rjhel_Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -33,24 +33,24 @@
 ------------------------------------------- 
 
 ### Most Use Language:
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambo18&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-jheltandugon&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 
 ------------------------------------------- 
   
 ### My Contributions & Streaks: 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=ambo18&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=r-jheltandugon&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 -------------------------------------------
 
 ### My github Status:
-<img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=ambo18&show_icons=true&theme=vision-friendly-dark">
+<img width="800" height="200" src="https://github-readme-stats.vercel.app/api?username=r-jheltandugon&show_icons=true&theme=vision-friendly-dark">
 
 ------------------------------------------- 
 
 ### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{ambo18}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{r-jheltandugon}/count.svg)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
