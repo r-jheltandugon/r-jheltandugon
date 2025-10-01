@@ -51,7 +51,7 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=r-jheltandugon.r-jheltandugon)
+![](https://hit.yhype.me/github/profile?account_id=r-jheltandugon)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
