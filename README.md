@@ -51,7 +51,7 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/r-jheltandugon/count.svg)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=r-jheltandugon)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
