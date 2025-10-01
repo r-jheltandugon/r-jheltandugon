@@ -51,7 +51,12 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-![](https://hit.yhype.me/github/profile?account_id=r-jheltandugon)
+<a href="https://github.com/r-jheltandugon/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=r-jheltandugon&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/r-jheltandugon/github-profile-views-counter
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
